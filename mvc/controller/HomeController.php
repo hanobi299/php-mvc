@@ -168,7 +168,7 @@ require_once './mvc/models/NewModels.php';
                             $cate = $this->models->getAllcategory();
                             $tag = $this->models->getAlltags();
                             $getnewscttag = $this->models->getnewscttagid($id_news);
-                            require_once 'views/news/editnews.php';
+                            require_once './mvc/views/news/editnews.php';
                             if(isset($_POST['edit'])){
                                 if(!empty($_POST['title'])){
                                     
