@@ -1,0 +1,90 @@
+body{
+  background-image: url(img/images.jpg);
+  background-size: cover;
+    }
+.nhantrang{
+    font-size: 24px;
+    font-family: sans-serif;
+    height: 30px
+}
+.dong{
+    margin-top: 5px;
+  max-width: 100%;
+    font-size: 14px;
+
+}
+#nut{
+    margin-top: 20px; 
+ background:lightsalmon; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#nut:hover{
+    background: red;
+
+}
+.boxthem{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #d8e2e7;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    border-radius: 10px;
+    background: white;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 750px;
+    border-radius: 10px;
+    height: 700px;
+}
+.boxsua{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #d8e2e7;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    border-radius: 10px;
+    background: white;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 750px;
+    border-radius: 10px;
+    height: auto;
+}
+.td{
+    width:650px;
+    display: block;
+    max-width: 100%;
+    height: 45px;
+    margin-left: 20px;
+    padding: 5px 15px;
+    font-size: 16px;
+
+}
+.form-control{
+    width: 85%;
+    margin-left: 20px;
+}
+.ha{
+    margin-left: 20px;
+}
+.cot1{ font-size: 16px;}

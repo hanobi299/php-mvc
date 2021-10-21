@@ -1,0 +1,314 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 16px;
+	background: #333;
+	font-family: 'Poppins', sans-serif;
+
+}
+a{
+	text-decoration: none;
+	list-style: none;
+}
+li {
+	text-decoration: none;
+	list-style: none;
+}
+.container_12{
+	
+	
+	margin:0px auto;
+
+
+}
+ul{
+	margin-bottom: 0;
+
+
+}
+
+.container{
+	max-width: 1170px;
+}
+.khung{
+	margin: 0px auto;
+	max-width: 1450px;
+
+}
+.khung1{
+	height: 80px;
+	margin: 0px auto;
+	width: 1430px;
+	background: #fff;
+	margin-bottom: 20px;
+	border-radius: 5px;
+
+}
+.timkiem{
+	display: block;
+	width: auto;
+	height: 60px;
+	float: left;
+	z-index: 1;	
+	border-radius: 10px;
+}
+.boxtk{
+	width: 170px;
+	float: right;
+	margin: 12px auto;
+
+}
+
+#tk{
+      box-sizing: border-box;
+      border: 1px solid black;
+      border-radius: 4px;
+      outline:none;
+}
+
+#logotrai{
+	z-index: 2;
+	height: 70px;
+	width: auto;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+
+}
+
+.btn{
+	font-weight: 390;
+}
+
+.phai {
+	margin-bottom: 20px;
+	float: right;
+	width: 200px;
+	height: 50px;
+
+}
+
+.usertrai{
+	margin-right: 15px;
+	margin-top: 20px;
+	width: 40px;
+	height: 45px;
+	float: left;
+	border-right: 1px solid grey;
+}
+.userphai{
+	margin-top: 10px;
+	width: 125px;
+
+}
+.userphai ul{
+	display: block;
+	width: 150px;
+}
+.userphai ul li{
+	text-align: center;
+
+}
+.phai li{
+	list-style: none;
+	text-decoration: none;
+}
+.khung2{
+	margin: 0 auto;
+	display: block;
+	max-width: 1425px;
+	position: relative;
+	clear: left;
+	background: #fff;
+}
+.khung2 li{
+	display: inline-block;
+
+}
+.khung2 ul li{
+	width: 200px;
+	height: 30px;
+	text-align: center;
+}
+.khung2 ul li a{
+	margin-bottom: 15px;
+	text-decoration: none;
+	color: white;
+}
+.khung2 ul li img{
+	width: 23px;
+	height: 20px;
+}
+.content{
+	float: left;
+	width: auto;
+	height: auto;
+	background: #5882FA;
+}
+
+.nd{
+	font-size: 14px;
+	margin-top: 22px;
+	margin: 0 auto;
+	background: white;
+	box-shadow: 1px 1px 1px 1px #ddd;
+	display: block;
+	z-index: 2;
+	max-width: 100%;
+	border-radius: 5px;
+
+
+}
+.dash-broad ul{
+	padding: 5px;
+}
+.dash-broad ul li {
+	
+ text-decoration: none;
+ padding: 15px 5px;
+ border-radius: 10px;
+
+}
+.dash-broad ul li a{
+	text-align: center;
+	text-decoration: none ;
+}
+.product_content{
+	margin: 10px 5px;
+}
+.topsp{
+	margin: 20px 2px;
+}
+.customer_content_title{
+	padding: 10px;
+}
+.product_content_product{
+	margin-top: 30px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.name_product{
+	font-size: 14px;
+}
+.product_items{
+	width: 19%
+
+}
+.product_item_text li h3 {
+display: -webkit-box;
+max-height: 10.2rem;
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: normal;
+-webkit-line-clamp: 2;
+line-height: 2.6rem;
+}
+.them li{
+	text-align: center;
+	list-style: none;
+}
+.them li a{
+	
+	text-decoration: none;
+}
+.quanly li {
+	text-align: center;
+	list-style: none;
+
+}
+.quanly li a{
+	text-decoration: none;
+}
+.dash-broad ul{
+	display: flex;
+
+}
+.dash-broad li{
+	width: 25%;
+	justify-content: space-between;
+	text-align: center;
+	justify-content: center;
+	background-color: #FFCC00;
+	border: 1px solid #fff;
+	
+}
+.dash-broad li span{
+	color: #fff;
+	font-size: 24px;
+}
+p{ 	
+	margin-top:15px;
+	text-align: center;
+	font-size: 32px;
+}
+.bang{
+	margin-top: 10px;
+	margin-left: 100px;
+}
+tbody{
+	text-align: center;
+}
+.doimk {
+	margin-left: 100px;
+	margin-top: 50px;
+	display: block;
+	width: 300px;
+	height: 150px;
+	background: #58D3F7;
+}
+.glyphicon  {
+	padding-top: 10px;
+	font-size: 24px;
+
+}
+.collapsed{
+	width: 100px;
+}
+
+.nav li a{
+
+
+}
+th{
+	text-align: center;
+	width: auto;
+}
+.nd1{
+	width: 300px;
+	height: auto;
+}
+.container1 {
+
+	width: 500px;
+	margin: auto;
+	text-align: center;
+  }
+.pagination {
+	margin: 25px auto;
+  }
+  .pagination a {
+	display: block;
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+	  border: 1px solid #ddd; /* Gray */
+	transition: background-color .3s;
+  }
+   
+  .pagination a.active {
+	  color: white;
+  }
+   
+  .pagination a:hover:not(.active) {
+	background-color: #ddd;
+  }
+
+  input{
+	  margin-left: 10px;
+	  padding: 10px 5px;
+	  max-width: 700px;
+  }
