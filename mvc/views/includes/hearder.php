@@ -47,7 +47,7 @@ if (isset($_POST['nutdx'])) {
               <div class="navbar-header">
               </div>
               <ul class="nav navbar-nav">
-                
+               <li><a href="index.php?action=home-admin">Home</a></li>
               <li><a href="index.php?action=my-account&id=<?php echo $_SESSION['id'] ?>">My Account</a></li>
               <li><a href="index.php?action=manage-news">Manage News</a></li>
               <li><a href="index.php?action=manage-term">Manage Term</a></li>
