@@ -23,7 +23,7 @@
             
   
             <div>
-                <img style="max-width:50px" src="image/<?php echo $getnewscttag[0]['image'] ?>" alt=""> 
+                <img style="max-width:50px" src="public/image/<?php echo $getnewscttag[0]['image'] ?>" alt=""> 
             </div>
 			
 		</div>
